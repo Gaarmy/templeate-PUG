@@ -1,0 +1,12 @@
+*** si no existe la carpeta node_modules escribir en la consola
+- npm init
+// si ya estan istalados los paquetes usar lo siguiente
+Para iniciar escribe en la consola
+- gulp init 
+Para produccion 
+- gulp build
+Para developemt (creara un servidor y los cambios se veran en tiempo real, tienes que haber hecho alguno de los comandos anteriores)
+- gulp
+Borrar capeta public (esto dejara solo la carpeta de contruccion y se tendra que usar alguno de los comandos init o build)
+- gulp reset
+
